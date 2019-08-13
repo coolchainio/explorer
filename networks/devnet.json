@@ -1,14 +1,14 @@
 {
-  "title": "DARK Explorer",
-  "server": "https://dexplorer.ark.io/api",
+  "title": "coolchain Devnet Explorer",
+  "server": "http://165.22.174.134:4003/api/v2",
   "alias": "Development",
-  "activeDelegates": 51,
-  "rewardOffset": 10800,
+  "activeDelegates": "51",
+  "rewardOffset": "1",
   "currencies": [],
   "knownWallets": {},
   "defaults": {
-    "token": "DARK",
-    "symbol": "DѦ",
+    "token": "COOL",
+    "symbol": "Ċ",
     "currency": null,
     "priceChart": false
   }
